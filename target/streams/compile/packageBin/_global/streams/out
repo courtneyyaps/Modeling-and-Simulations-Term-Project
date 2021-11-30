@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/cbutson/IdeaProjects/Modeling-and-Simulations-Term-Project/target/scala-3.1.0/modeling-and-simulations-term-project_3-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	termProject[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cbutson/IdeaProjects/Modeling-and-Simulations-Term-Project/target/scala-3.1.0/classes/termProject[0m
+[0m[[0m[0mdebug[0m] [0m[0m	termProject/TurnAroundVariate$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cbutson/IdeaProjects/Modeling-and-Simulations-Term-Project/target/scala-3.1.0/classes/termProject/TurnAroundVariate$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	termProject/PMSAirport$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cbutson/IdeaProjects/Modeling-and-Simulations-Term-Project/target/scala-3.1.0/classes/termProject/PMSAirport$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	termProject/PMSAirport$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cbutson/IdeaProjects/Modeling-and-Simulations-Term-Project/target/scala-3.1.0/classes/termProject/PMSAirport$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	termProject/PMSAirport.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cbutson/IdeaProjects/Modeling-and-Simulations-Term-Project/target/scala-3.1.0/classes/termProject/PMSAirport.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	termProject/TurnAroundVariate.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cbutson/IdeaProjects/Modeling-and-Simulations-Term-Project/target/scala-3.1.0/classes/termProject/TurnAroundVariate.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	termProject/PMSAirport.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cbutson/IdeaProjects/Modeling-and-Simulations-Term-Project/target/scala-3.1.0/classes/termProject/PMSAirport.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	termProject/TurnAroundVariate.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cbutson/IdeaProjects/Modeling-and-Simulations-Term-Project/target/scala-3.1.0/classes/termProject/TurnAroundVariate.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	termProject/PMSAirport$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cbutson/IdeaProjects/Modeling-and-Simulations-Term-Project/target/scala-3.1.0/classes/termProject/PMSAirport$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	termProject/PMSAirport$Plane.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cbutson/IdeaProjects/Modeling-and-Simulations-Term-Project/target/scala-3.1.0/classes/termProject/PMSAirport$Plane.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	termProject/runPMSAirport.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cbutson/IdeaProjects/Modeling-and-Simulations-Term-Project/target/scala-3.1.0/classes/termProject/runPMSAirport.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	termProject/PMSAirport$Plane$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cbutson/IdeaProjects/Modeling-and-Simulations-Term-Project/target/scala-3.1.0/classes/termProject/PMSAirport$Plane$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	termProject/runPMSAirport.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cbutson/IdeaProjects/Modeling-and-Simulations-Term-Project/target/scala-3.1.0/classes/termProject/runPMSAirport.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	termProject/PMSAirport$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cbutson/IdeaProjects/Modeling-and-Simulations-Term-Project/target/scala-3.1.0/classes/termProject/PMSAirport$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
